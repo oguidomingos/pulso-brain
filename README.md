@@ -175,5 +175,10 @@ Ver `GUIDELINES.md` para:
 
 ---
 
+
+
+Estudo de público: https://docs.google.com/document/d/1hc5V96-jGEfJxwKnfCfnHCEhq227CoZpqoftiN3Ilck/edit?usp=sharing
+
+
 **Última atualização:** 2026-04-08
 **Status:** POC validado, pronto para escala
