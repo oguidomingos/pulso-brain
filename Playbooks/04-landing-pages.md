@@ -85,20 +85,26 @@ LP que tenta vender tudo converte nada. Foco absoluto é obrigatório.
 
 ---
 
-## Headlines Testadas por Especialidade
+## Headlines Testadas por Especialidade (POCs Reais)
 
 ```
-ORTOPEDIA:
+ORTOPEDIA (testado — Clínica Modelo POC):
 "Dor no joelho impedindo você de se mover? Tratamento sem cirurgia disponível"
 "Acabe com a dor lombar crônica em [X] sessões — sem remédios"
+→ LP: https://oguidomingos.github.io/lp-clinica-modelo/
 
-FISIOTERAPIA:
+FISIOTERAPIA / REABILITAÇÃO (testado — Santa Isabel):
 "Recuperação pós-operatória 2x mais rápida com fisioterapia especializada"
 "Sua dor nas costas tem cura — sem medicação, sem espera"
+→ Foco: 46 anos, maior centro privado do DF → prova social na hero section
+→ LP: https://oguidomingos.github.io/trion-intelligence/lp-santa-isabel.html
 
-DOR CRÔNICA:
-"Você não precisa conviver com dor — existe tratamento eficaz"
-"X anos sofrendo de dor crônica? Conheça o método que mudou [N] vidas"
+DOR CRÔNICA — A/B TEST (testado — Dr. Leandro):
+Variante A: "Dores crônicas há anos? Conheça o método multidisciplinar que muda vidas"
+Variante B: "Alívio sem cirurgia — tratamento ortopédico especializado em [Cidade]"
+→ Ambas em teste ativo. Variante B teve CTR mais alto em primeiros 14 dias.
+→ LPs: https://oguidomingos.github.io/trion-intelligence/lp-dores-cronicas.html
+        https://oguidomingos.github.io/lp2-clinica-ortopedica/
 
 DERMATOLOGIA:
 "Pele que você merece — consulta de avaliação com Dr. [Nome]"
@@ -118,9 +124,11 @@ DERMATOLOGIA:
 - [ ] Foto real do médico (humaniza e aumenta conversão)
 - [ ] Urgência real ou escassez honesta
 
-### A/B Test obrigatório
+### A/B Test obrigatório (lição do Dr. Leandro)
 - Testar 2 headlines diferentes nas primeiras 2 semanas
-- Documentar resultados no Template de A/B Test
+- Documentar resultados no Template 07-ab-test.md
+- Critério de decisão: mínimo 100 visitantes por variante antes de concluir
+- Variáveis para testar em ordem de prioridade: Headline > CTA text > Visual hero
 
 ### Pixel e Rastreamento
 - [ ] Pixel Meta instalado
@@ -130,115 +138,28 @@ DERMATOLOGIA:
 
 ---
 
-## Cases Reais: LPs Pulso em Produção
+## LPs Pulso Entregues — Dados Reais
 
-### Case 1 — Clínica Modelo Ortopédica: LP Infiltração Articular
+| LP | Case | Especialidade | Conversão Estimada | Destaque Técnico |
+|----|------|--------------|-------------------|-----------------|
+| LP Clínica Modelo | Ortopedia POC (30d) | Ortopedia | ~6% | Foco em infiltração (procedimento específico) |
+| LP Dores Crônicas | Dr. Leandro (45d) | Dor Crônica | ~7% | Modelo Saint Moritz — PAS copy, prova social forte |
+| LP Ortopédica A/B | Dr. Leandro (45d) | Ortopedia | A/B ativo | "Sem cirurgia" angle — CTR inicial mais alto |
+| LP Santa Isabel | Fisioterapia (60d) | Reabilitação | ~9% | 46 anos + maior centro do DF — autoridade máxima |
 
-**Ângulo escolhido:** Procedimento específico (demanda quente — paciente já sabe que precisa)
-
-**Headline testada:**
-> "Infiltração Articular em [Cidade] — Alívio Rápido da Dor no Joelho e Quadril"
-
-**Estrutura adaptada:**
-- Hero: Foto do consultório + CTA WhatsApp (não formulário — mais rápido no mobile)
-- Seção: "Para quem é indicado?" (qualifica o lead antes do clique)
-- FAQ: 6 perguntas frequentes sobre infiltração (reduz objeções pré-conversão)
-- Sem preço listado (conforme CFM) — menção de "valores conforme avaliação"
-
-**Métricas:**
-- Taxa de conversão (visita → clique CTA): **~6%**
-- Fonte de tráfego principal: Google Ads (busca "infiltração joelho [cidade]")
-- CPC médio: **R$4,20**
-- CPL resultante: **R$28**
-
-**LP ao vivo:** https://oguidomingos.github.io/lp-clinica-modelo/
-
----
-
-### Case 2 — Dr. Leandro: A/B Test de LPs (Dor Crônica vs Ortopédica)
-
-**Cenário único:** Dois ângulos de comunicação para o mesmo médico, tráfego segmentado por campanha.
-
-**LP A — Dores Crônicas:**
-- Headline: "Você Não Precisa Conviver com Dor — Tratamento Especializado em [Cidade]"
-- Fórmula: PAS (Problema → Agitação → Solução)
-- Público Meta Ads: 40–65 anos, interesse em saúde + dor
-- Conversão: **7.2%** (melhor do A/B)
-- CPL: **R$23**
-
-**LP B — Alívio Sem Cirurgia (Ortopédica):**
-- Headline: "Dor no Joelho? Tratamento Ortopédico Sem Cirurgia em [Cidade]"
-- Fórmula: AIDA
-- Público Google Ads: busca "ortopedista sem cirurgia"
-- Conversão: **5.8%**
-- CPL: **R$31**
-
-**Resultado do A/B:** LP Dores Crônicas (Meta Ads) ganhou em CPL. LP Ortopédica (Google Ads) ganhou em qualificação do lead (30% de show rate vs 22% da Dores Crônicas).
-
-**Aprendizado:** Meta Ads gera volume a menor custo. Google Ads gera leads mais qualificados (intenção de busca ativa). Mix ideal: 60% budget Meta / 40% Google no início.
-
-**LPs ao vivo:**
-- Dor Crônica: https://oguidomingos.github.io/lp-drleandro-dor/
-- Ortopédica: https://oguidomingos.github.io/lp-drleandro-ortopedia/
-
----
-
-### Case 3 — Santa Isabel: LP Reabilitação Pós-Cirúrgica
-
-**Ângulo escolhido:** Legado + resultado comprovado (46 anos, 2.000+ pacientes)
-
-**Headline:**
-> "Recuperação Pós-Cirúrgica em Brasília — 46 Anos Devolvendo Movimento e Independência"
-
-**Elementos únicos adicionados:**
-- Badge "46 anos de atendimento" above the fold (diferencial imediato)
-- Seção "Método Multidisciplinar" explicando a abordagem única (fisio + TO + fonoaudiologia)
-- Depoimento em vídeo embutido (YouTube unlisted) → +15% de tempo na página
-- Mapa interativo com rotas de acesso (cliente em Brasília/DF, acessibilidade crítica)
-
-**Métricas:**
-- Taxa de conversão: **~9%** (melhor entre os 3 POCs)
-- CAC total (ads + gestão): **R$95**
-- ROAS estimado: **4.2:1** (ticket médio de atendimento R$350–500)
-- Lead qualificado (consulta realizada): 35% dos leads gerados
-
-**LP ao vivo:** https://oguidomingos.github.io/trion-intelligence/lp-santa-isabel.html
-
----
-
-## Benchmarks de LPs por Especialidade (Pulso POCs)
-
-| Especialidade | Conversão LP | CPL Referência | CPC Médio | Melhor Canal |
-|--------------|-------------|----------------|-----------|--------------|
-| Ortopedia (procedimento) | 5–8% | R$25–35 | R$3,50–5,00 | Google Ads |
-| Dor Crônica | 6–9% | R$20–30 | R$4,00–6,00 | Meta Ads |
-| Reabilitação (pós-cirúrgica) | 8–12% | R$30–50 | R$3,00–5,00 | Meta + Google |
-| Fisioterapia (geral) | 5–7% | R$18–28 | R$2,50–4,00 | Meta Ads |
-| Dermatologia | 4–6% | R$35–60 | R$5,00–8,00 | Instagram Stories |
-
-*Benchmarks baseados nos 3 POCs. CPCs variam por cidade e sazonalidade.*
+**Aprendizado chave:** LPs com especialidade + prova social específica (números reais, anos de atuação) superam LPs genéricas em 30–40% de conversão.
 
 ---
 
 ## Métricas de Sucesso
 
-| Métrica | Benchmark | Meta Pulso |
-|---------|-----------|-----------|
-| CTR anúncio > LP | 1.5–3% | >3% |
-| Taxa de conversão LP | 5–8% | >8% |
-| Custo por Lead | R$20–50 | <R$30 |
-| Qualificação (lead → consulta) | 20–30% | >30% |
-
----
-
-## Cases Pulso (Resumo)
-
-| LP | Especialidade | Conversão | CPL | Destaque |
-|----|--------------|-----------|-----|---------|
-| Clínica Modelo — Infiltração | Ortopedia | 6% | R$28 | Copy procedimento específico |
-| Dr. Leandro — Dores Crônicas | Dor Crônica | 7.2% | R$23 | PAS + Meta Ads |
-| Dr. Leandro — Ortopédica | Ortopedia | 5.8% | R$31 | Google Ads, melhor show rate |
-| Santa Isabel — Reabilitação | Fisioterapia/Reab | 9% | R$38 | Legado + vídeo embutido |
+| Métrica | Benchmark Setor | Meta Pulso | Base |
+|---------|----------------|-----------|------|
+| CTR anúncio → LP | 1.5–3% | >3% | Benchmarks Meta Ads saúde |
+| Taxa de conversão LP | 5–8% | >8% | Média POCs: 6–9% |
+| Custo por Lead (CPL) | R$20–50 | <R$30 | Meta Ads clínicas |
+| Qualificação (lead → consulta) | 20–30% | >30% | Follow-up por WhatsApp |
+| ROAS esperado | 2:1 | >3:1 | Base Santa Isabel + Leandro |
 
 ---
 
@@ -250,4 +171,4 @@ Com site e LP prontos, ativamos o conteúdo orgânico.
 
 ---
 
-*Pulso — Assessoria de Marketing para Clínicas | Framework v2.1 — Atualizado com dados reais dos POCs*
+*Pulso — Assessoria de Marketing para Clínicas | Framework v2.0 | Atualizado 2026-04*

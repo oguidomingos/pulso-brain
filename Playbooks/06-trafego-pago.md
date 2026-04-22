@@ -28,7 +28,7 @@ DEMANDA FRIA (Meta Ads)
 
 ## Meta Ads — Estrutura de Campanha
 
-### Funil Completo (padrão Pulso)
+### Funil Completo (padrão Pulso — validado Santa Isabel)
 
 **ToFu (Topo de Funil) — Awareness**
 - Objetivo: Alcance ou Visualizações de Vídeo
@@ -130,118 +130,58 @@ Framework para gerenciamento contínuo de campanhas:
 
 ---
 
-## Cases Reais: Campanhas Pulso
+## Criativos Reais Entregues (POCs)
 
-### Case 1 — Clínica Modelo Ortopédica
+### Clínica Modelo Ortopédica — 4 peças
+| Peça | Formato | Copy angle | Fase funil |
+|------|---------|-----------|-----------|
+| 1 | Imagem 1:1 | "Dor no joelho? Infiltração especializada" | Conversão |
+| 2 | Imagem 1:1 | Identidade visual azul + CTA WhatsApp | Awareness |
+| 3 | Carrossel | "3 sintomas que não devem ser ignorados" | Consideração |
+| 4 | Imagem 4:5 | Foto do espaço + credenciais | Confiança |
 
-**Estrutura de campanha executada:**
-- 4 criativos (2 awareness + 2 conversão)
-- Público: Mulheres e homens 35–65 anos, raio 15km, interesse em saúde
-- Budget: R$1.500/mês (distribuição: 60% Meta / 40% Google)
+### Dr. Leandro Marques Dutra — 6 peças (A/B structure)
+| Peça | Formato | Copy angle | Fase funil |
+|------|---------|-----------|-----------|
+| 1 | Imagem 1:1 | "Você não precisa conviver com dor" (PAS) | Awareness |
+| 2 | Imagem 4:5 | "Alívio sem cirurgia" — ângulo ortopédico | Conversão |
+| 3 | Carrossel | "5 tipos de dor crônica que têm tratamento" | Educação |
+| 4 | Imagem 1:1 | Depoimento fictício aprovado + credencial | Confiança |
+| 5 | Vídeo 15s | Roteiro: gancho + benefício + CTA | Conversão |
+| 6 | Imagem 4:5 | Método multidisciplinar explicado | Consideração |
 
-**Criativos:**
-1. Awareness: "Você sabe o que causa dor no joelho?" — imagem educativa
-2. Awareness: Vídeo 20s com médico explicando infiltração articular
-3. Conversão: "Consulta disponível esta semana — Agendar pelo WhatsApp"
-4. Conversão: Depoimento anônimo + CTA botão WhatsApp
-
-**Resultados:**
-| Métrica | Meta | Resultado |
-|---------|------|-----------|
-| CTR (awareness) | >1.5% | 2.1% |
-| CPC (conversão) | <R$2.50 | R$2.20 |
-| CPL | <R$35 | R$28 |
-| ROAS estimado | >3:1 | ~3.2:1 |
-
-**Aprendizado:** Criativo com foto do médico (não do consultório) teve CTR 40% maior.
-
----
-
-### Case 2 — Dr. Leandro Marques Dutra
-
-**Estrutura de campanha executada:**
-- 6 criativos (3 por ângulo — dor crônica / sem cirurgia)
-- A/B test de público: 40–55 anos vs 45–65 anos
-- Budget: R$2.000/mês (60% Meta / 40% Google)
-
-**Resultados Meta Ads (Dores Crônicas):**
-| Métrica | Meta | Resultado |
-|---------|------|-----------|
-| CTR | >1.5% | 2.8% |
-| CPC | <R$2.50 | R$1.90 |
-| CPL | <R$35 | R$23 |
-| Frequência | <3x | 2.4x |
-
-**Resultados Google Ads (Ortopédica — busca):**
-| Métrica | Meta | Resultado |
-|---------|------|-----------|
-| CTR | >5% | 6.2% |
-| CPC | <R$4.00 | R$3.70 |
-| CPL | <R$50 | R$31 |
-| Taxa conversão LP | >8% | 5.8% |
-
-**Aprendizado crítico:** Foto do médico em BoFu aumentou conversão em 32% vs criativos sem rosto. Vídeo 15s (médico falando diretamente para câmera) teve o melhor CTR de todo o período.
+### Santa Isabel Fisioterapia — 10 peças (funil completo)
+| Fase | Peças | Foco | Diferencial |
+|------|-------|------|------------|
+| Awareness (4 peças) | Imagens + vídeo | "70% das lesões mal tratadas não recuperam" | Estatística de impacto |
+| Conversão (3 peças) | Imagens | Antes/depois funcional + depoimento + garantia | Prova social específica |
+| Retargeting (3 peças) | Imagens | Urgência (vagas) + avaliação gratuita + tempo economizado | Escassez honesta |
 
 ---
 
-### Case 3 — Centro de Reabilitação Santa Isabel
+## KPIs e Benchmarks Reais
 
-**Estrutura de campanha executada:**
-- 10 criativos (4 awareness + 3 conversão + 3 retargeting)
-- Público primário: 35–70 anos, pós-cirúrgico (interest: hospitais, fisioterapia, ortopedia)
-- Público secundário: Lookalike de pacientes existentes (lista de WhatsApp)
-- Budget: R$2.500/mês (50% Meta / 50% Google)
-
-**Criativos de destaque:**
-1. **Awareness Vídeo:** "46 anos devolvendo movimento — Santa Isabel, Brasília" (30s)
-2. **Conversão Estático:** Badge "2.000+ pacientes tratados" + CTA WhatsApp
-3. **Retargeting:** "Sua recuperação começa aqui — vagas limitadas"
-
-**Resultados:**
-| Métrica | Meta | Resultado |
-|---------|------|-----------|
-| CTR geral | >1.5% | 2.4% |
-| CPC | <R$4.00 | R$3.20 |
-| CPL | <R$45 | R$38 |
-| ROAS | >3:1 | 4.2:1 |
-| CAC total | <R$120 | R$95 |
-
-**Aprendizado:** Retargeting para visitantes da LP converteu 3.5x mais que tráfego frio. Sempre alocar 20-30% do budget para retargeting após semana 2.
-
----
-
-## Benchmarks por Especialidade (Pulso POCs)
-
-| Especialidade | CTR Meta | CPC Meta | CPL Meta | CTR Google | CPC Google | CPL Google |
-|--------------|----------|----------|----------|-----------|-----------|-----------|
-| Ortopedia | 2.1% | R$2.20 | R$28 | 6.2% | R$3.70 | R$31 |
-| Dor Crônica | 2.8% | R$1.90 | R$23 | — | — | — |
-| Reabilitação | 2.4% | R$3.20 | R$38 | — | — | — |
-
-*Benchmarks válidos para campanhas em cidades médias BR (2026). Variam por cidade, sazonalidade e qualidade do criativo.*
-
----
-
-## KPIs e Benchmarks
-
-| Métrica | Meta Ads | Google Ads |
-|---------|----------|-----------|
-| CTR | >1.5% | >5% |
-| CPC | <R$2.50 | <R$4.00 |
-| CPL | <R$35 | <R$50 |
-| Taxa de conversão LP | >5% | >8% |
-| ROAS (receita/investimento) | >3:1 | >4:1 |
-| Frequência (Meta) | <3x/semana | — |
+| Métrica | Benchmark Setor | Meta Pulso | Dados POCs |
+|---------|----------------|-----------|-----------|
+| CTR Meta Ads | 1–2% | >1.5% | Case Leandro: 1.5–2% |
+| CPC Meta Ads | R$3–6 | <R$2.50 | Case Leandro: R$4–6 |
+| CPL Meta Ads | R$20–50 | <R$35 | Meta estabelecida: <R$30 |
+| Taxa de conversão LP | 5–8% | >8% | Santa Isabel: ~9% |
+| ROAS Meta Ads | 2:1–3:1 | >3:1 | Meta conservadora |
+| ROAS Google Ads | 3:1–5:1 | >4:1 | Demanda quente |
+| CAC final | R$80–200 | <R$150 | Santa Isabel: R$80–150 |
 
 ---
 
 ## Budget Mínimo Recomendado
 
-| Porte da Clínica | Budget/mês | Distribuição |
-|-----------------|-----------|-------------|
-| Pequena (1-2 médicos) | R$1.500–3.000 | 60% Meta / 40% Google |
-| Média (3-5 médicos) | R$3.000–6.000 | 50% Meta / 50% Google |
-| Grande (6+ médicos) | R$6.000+ | 40% Meta / 60% Google |
+| Porte da Clínica | Budget/mês | Distribuição | Base |
+|-----------------|-----------|-------------|------|
+| Pequena (1-2 médicos) | R$1.500–3.000 | 60% Meta / 40% Google | 1 campanha por canal |
+| Média (3-5 médicos) | R$3.000–6.000 | 50% Meta / 50% Google | Funil completo Meta |
+| Grande (6+ médicos) | R$6.000+ | 40% Meta / 60% Google | Escala + retargeting robusto |
+
+**Budget mínimo para testar A/B de LP:** R$1.500/mês por variante (mínimo 30 dias de dados)
 
 ---
 
@@ -262,6 +202,17 @@ Framework para gerenciamento contínuo de campanhas:
 
 ---
 
+## Estratégia de Criativos por Especialidade (Pulso)
+
+| Especialidade | Angle que Funciona | Angle a Evitar | Base |
+|--------------|-------------------|----------------|------|
+| Ortopedia | "Sem cirurgia" + procedimentos específicos | Copy genérico sobre dor | Clínica Modelo + Leandro |
+| Dor Crônica | PAS: nomear a dor + agitar consequências + solução clara | Promessas de cura rápida | Dr. Leandro |
+| Fisioterapia | 46 anos + prova social + prova de recuperação funcional | Antes/depois cirúrgico (CFM) | Santa Isabel |
+| Reabilitação | Jornada do herói + resultado funcional (andar, correr de novo) | Garantias de resultado | Santa Isabel |
+
+---
+
 ## Próxima Etapa
 
 → **Playbook 07 — Copywriting**
@@ -270,4 +221,4 @@ Todo anúncio é fraco sem copy forte.
 
 ---
 
-*Pulso — Assessoria de Marketing para Clínicas | Framework v2.1 — Atualizado com dados reais dos POCs*
+*Pulso — Assessoria de Marketing para Clínicas | Framework v2.0 | Atualizado 2026-04*

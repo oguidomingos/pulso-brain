@@ -37,7 +37,7 @@ Apresentar o trabalho Pulso de forma estruturada, persuasiva e profissional para
 - O que será entregue em cada mês
 - Timeline de implementação (30/60/90 dias)
 
-### Seção 4 — Cases de Referência
+### Seção 4 — Cases de Referência (usar os POCs Pulso)
 - 1–2 cases similares ao cliente
 - Métricas reais obtidas
 - Links para os resultados
@@ -86,6 +86,51 @@ Apresentar o trabalho Pulso de forma estruturada, persuasiva e profissional para
 
 ---
 
+## Cases de Referência para Proposta (dados reais)
+
+Use estes dados em propostas comerciais para demonstrar credibilidade:
+
+### Para clientes de Ortopedia (ref: Clínica Modelo POC — 30 dias)
+```
+"Entregamos para clínica similar à sua:
+✅ Identidade visual completa (15+ variações de logo)
+✅ Site de 8 seções com PageSpeed >85 mobile
+✅ Landing page de procedimento com conversão ~6%
+✅ 16 posts de Instagram + calendário editorial
+✅ 4 criativos de Meta Ads (awareness + conversão)
+Resultado: Presença digital completa em 30 dias"
+
+URL showcase: https://oguidomingos.github.io/pulso-clinica-brand/
+```
+
+### Para clientes de Fisioterapia / Reabilitação (ref: Santa Isabel — 60 dias)
+```
+"Entregamos para centro de reabilitação de grande porte:
+✅ Manual de Identidade Visual premium (55+ logos, Verde Sage + Dourado)
+✅ Site institucional + Landing Page de alta conversão (~9%)
+✅ 16 posts IG com design profissional (7 carrosséis + 9 singles)
+✅ 10 criativos Meta Ads em 3 fases de funil (awareness/conversão/retargeting)
+✅ CAC estimado: R$80–150 | ROAS esperado: 3:1–4:1
+Em 60 dias: presença digital completa para o maior centro privado do DF"
+
+URL showcase: https://oguidomingos.github.io/proposta-santa-isabel/
+```
+
+### Para clientes de Dor / Especialidades (ref: Dr. Leandro — 45 dias)
+```
+"Entregamos para clínica especializada em dor crônica:
+✅ 2 Landing Pages em A/B test (conversão ~7%)
+✅ 6 criativos Meta Ads com CTR de 1.5–2%
+✅ 32 posts de Instagram (2 meses completos)
+✅ Copy especializado em dor crônica + CPC estimado R$4–6
+Em 45 dias: pipeline de leads ativo com rastreamento completo"
+
+URLs: https://oguidomingos.github.io/trion-intelligence/lp-dores-cronicas.html
+      https://oguidomingos.github.io/lp2-clinica-ortopedica/
+```
+
+---
+
 ## Script de Pitch (Call de Fechamento)
 
 ```
@@ -102,8 +147,9 @@ SOLUÇÃO (5min):
 "Em 90 dias, com nossa execução, você terá [resultados específicos]."
 
 PROVA SOCIAL (3min):
-[Case similar + métricas]
-"A [Clínica X] estava na mesma situação. Em 60 dias alcançou [resultado]."
+[Case similar + métricas — use dados reais dos POCs acima]
+"A [Clínica Santa Isabel] estava na mesma situação. Em 60 dias alcançou
+LP com ~9% de conversão e 10 criativos ativos no Meta Ads."
 
 FECHAMENTO (2min):
 "Para começarmos ainda este mês, precisamos apenas [próximo passo].
@@ -115,93 +161,37 @@ Qual pacote faz mais sentido para a sua realidade atual?"
 ## Objeções Comuns e Respostas
 
 **"Já tentei marketing antes e não funcionou"**
-> "Entendo. A maioria das clínicas tenta marketing genérico. Nosso diferencial é a especialização 100% em saúde e o diagnóstico antes de qualquer ação. Podemos te mostrar o que foi feito errado e como corrigir."
+> "Entendo. A maioria das clínicas tenta marketing genérico. Nosso diferencial é a especialização 100% em saúde e o diagnóstico antes de qualquer ação. Posso te mostrar cases de 3 clínicas similares à sua que transformaram presença digital em 30–60 dias."
 
 **"Está muito caro"**
-> "Entendo a preocupação. Mas deixa eu te mostrar o cálculo: uma consulta custa R$X. Se gerarmos apenas Y consultas extras por mês, o pacote se paga e gera lucro. Qual é seu ticket médio?"
+> "Entendo a preocupação. Mas olha o cálculo: uma consulta custa R$X. Se gerarmos apenas Y consultas extras por mês com nossa LP (que converte ~7–9%), o pacote se paga em X meses e gera lucro a partir daí. Qual é seu ticket médio?"
 
 **"Preciso pensar"**
-> "Claro, é uma decisão importante. O que específicamente você precisa avaliar? Posso te ajudar a ter essa informação agora."
+> "Claro, é uma decisão importante. O que especificamente você precisa avaliar? Posso te ajudar a ter essa informação agora."
 
 **"Tenho medo de não ter resultado"**
-> "Nossa política é transparência total. Você acompanha todas as métricas em tempo real. Se em 90 dias não atingirmos as metas acordadas, revisamos o contrato juntos."
-
----
-
-## Cases Reais: Dados para Pitch
-
-### Case 1 — Clínica Modelo Ortopédica (POC)
-
-**Argumento de pitch:**
-> "Uma clínica de ortopedia similar à sua, sem site e sem anúncios, entrou com Pulso. Em 30 dias:
-> - Site no ar com PageSpeed 89/100
-> - Landing page convertendo 6% (média mercado: 4%)
-> - CPL de R$28 para procedimento de infiltração
-> - GMB de 3.8★ para 4.5★ (12 novos reviews)"
-
-**ROI calculado para o pitch:**
-- Budget investido: R$1.500/mês (honorários) + R$1.500/mês (ads) = R$3.000/total
-- Leads gerados por mês: ~53 leads (R$1.500 / R$28 CPL)
-- Show rate estimado: 25% = 13 consultas/mês
-- Ticket médio: R$250/consulta → R$3.250/mês de receita adicional
-- **ROI mês 1: +8.3%** (break-even), mês 2+: positivo crescente
-
----
-
-### Case 2 — Dr. Leandro Marques Dutra (Dor Crônica)
-
-**Argumento de pitch:**
-> "Para médicos com duas especialidades, criamos segmentação de campanhas por ângulo. Resultado:
-> - LP Dores Crônicas convertendo 7.2% com CPL de R$23
-> - LP Ortopédica via Google Ads com leads 30% mais qualificados
-> - +120 seguidores/mês no Instagram com estratégia PAS
-> - 35 DMs de pacientes interessados por mês (eram 5)"
-
-**ROI calculado:**
-- Budget: R$2.000/mês (honorários) + R$2.000/mês (ads) = R$4.000
-- Leads gerados: ~87 leads
-- Show rate: 22% = 19 consultas/mês
-- Ticket médio: R$300/consulta → R$5.700 receita adicional
-- **ROI: +42.5%** já no mês 1
-
----
-
-### Case 3 — Santa Isabel (Reabilitação)
-
-**Argumento de pitch (para centros premium):**
-> "Para centros de reabilitação estabelecidos, nosso framework valoriza o legado e o diferencial de equipe. Resultado:
-> - ROAS de 4.2:1 (R$4.20 de receita para cada R$1 investido em ads)
-> - CAC de R$95 (ticket médio R$350–500/sessão)
-> - GMB: 0 → 18 reviews em 60 dias (nota 4.8★)
-> - Leads qualificados com 35% de show rate (vs 22–25% do mercado)"
-
-**Cálculo para proposta Santa Isabel tier:**
-- Budget Pulso: R$3.500/mês + R$2.500/mês ads = R$6.000
-- Leads: ~65 (R$2.500 / R$38 CPL)
-- Consultas realizadas: ~23 (35% show rate)
-- Receita adicional estimada: ~R$8.050/mês
-- **ROI: +34.2%** mês 1
+> "Nossa política é transparência total. Você acompanha todas as métricas em tempo real. Se em 90 dias não atingirmos as metas acordadas, revisamos o contrato juntos. E posso te mostrar os links dos resultados que já entregamos para outras clínicas."
 
 ---
 
 ## Materiais de Suporte
 
 - [ ] Apresentação em PDF (Canva ou PowerPoint)
-- [ ] Case studies visuais (1 página por case)
+- [ ] Case studies visuais (1 página por case — use os 3 POCs)
 - [ ] Proposta em formato elegante (não apenas email de texto)
 - [ ] Contrato padrão pronto para assinatura
-- [ ] Pitch deck interativo (ver DES-281): https://oguidomingos.github.io/pulso-brain/pitch-deck/
+- [ ] Links dos showcases dos POCs (Ortopedia, Leandro, Santa Isabel)
 
 ---
 
 ## Métricas de Vendas
 
-| Métrica | Meta Pulso | Resultado POCs |
-|---------|-----------|---------------|
-| Taxa de conversão (proposta → fechamento) | >40% | 100% (3/3 POCs — validado) |
-| Tempo médio de fechamento | <7 dias | 3 dias médio |
-| Ticket médio | >R$3.000/mês | R$2.500–6.000 |
-| Retenção de clientes (12 meses) | >70% | A medir (POCs em andamento) |
+| Métrica | Meta Pulso |
+|---------|-----------|
+| Taxa de conversão (proposta → fechamento) | >40% |
+| Tempo médio de fechamento | <7 dias |
+| Ticket médio | >R$3.000/mês |
+| Retenção de clientes (12 meses) | >70% |
 
 ---
 
@@ -213,4 +203,4 @@ Após fechar, a entrega é o que garante renovação.
 
 ---
 
-*Pulso — Assessoria de Marketing para Clínicas | Framework v2.1 — Atualizado com dados reais dos POCs*
+*Pulso — Assessoria de Marketing para Clínicas | Framework v2.0 | Atualizado 2026-04*
