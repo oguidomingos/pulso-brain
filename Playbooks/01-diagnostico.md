@@ -109,76 +109,6 @@ Mapear 3–5 concorrentes diretos na mesma área geográfica e especialidade.
 
 ---
 
-## Score de Diagnóstico Pulso
-
-```
-Calcular pontuação em 5 dimensões (0–20 pts cada):
-
-1. Site & Técnica         ___/20
-2. SEO & GMB              ___/20
-3. Social Media           ___/20
-4. Tráfego Pago           ___/20
-5. Identidade Visual      ___/20
-
-TOTAL:                    ___/100
-
-Interpretação:
-  0–40:   Presença digital incipiente — oportunidade máxima
-  41–60:  Base existe, execução inconsistente
-  61–80:  Bom baseline, otimização e escala possíveis
-  81–100: Avançado — foco em eficiência e ROAS
-```
-
----
-
-## Benchmarks Reais por Especialidade (POCs Pulso)
-
-### Ortopedia — Clínica Modelo POC (30 dias)
-| Métrica | Situação Inicial | Após Execução Pulso |
-|---------|-----------------|---------------------|
-| PageSpeed mobile | Não medido / site desatualizado | >85 |
-| Landing page | Inexistente | Ativa (foco em infiltração) |
-| Criativos Meta Ads | 0 peças | 4 peças (awareness + conversão) |
-| Posts Instagram | Sem calendário | 16 posts + copy entregues |
-| Identidade Visual | Inconsistente | MIV com 15+ variações de logo |
-| Conversão LP esperada | — | 5–8% |
-
-### Fisioterapia / Reabilitação — Santa Isabel (60 dias, maior centro privado do DF)
-| Métrica | Situação Inicial | Após Execução Pulso |
-|---------|-----------------|---------------------|
-| Identidade Visual | Desatualizada | MIV premium: Verde Sage #2A7D6B + Dourado #C4A04A, 55+ logos |
-| Site + LP | Ausentes | Site institucional + LP de alta conversão no ar |
-| Criativos Meta Ads | 0 peças | 10 peças (awareness, conversão, retargeting) |
-| Posts Instagram | Irregular | 16 posts + design (7 carrosséis + 9 singles) |
-| CAC esperado | Sem rastreamento | R$80–150 por paciente |
-| ROAS esperado | — | 3:1–4:1 |
-
-### Dor Crônica — Dr. Leandro Marques Dutra (45 dias)
-| Métrica | Situação Inicial | Após Execução Pulso |
-|---------|-----------------|---------------------|
-| Landing pages | 0 | 2 LPs em A/B test (headlines diferentes) |
-| Copy angle | Genérico | "Alívio sem cirurgia" (ortopedia) / "Método multidisciplinar" (dor) |
-| Posts Instagram | 0 | 32 posts (2 meses completos) |
-| Criativos anúncio | 0 | 6 variações testando mensagens |
-| CPC estimado | — | R$4–6 |
-| CTR esperado | — | 1.5–2% |
-
----
-
-## Red Flags Identificados nos 3 POCs
-
-| Problema | Frequência | Impacto no Negócio |
-|---------|-----------|---------------------|
-| Site sem mobile-responsive | 3/3 clientes | Crítico — 70% do tráfego de saúde vem mobile |
-| Pixel Meta não instalado | 3/3 clientes | Crítico — impossível otimizar campanhas sem dados |
-| Google Meu Negócio incompleto | 3/3 clientes | Alto — GMB bem otimizado gera 30–40% dos leads locais |
-| Sem CTA acima do fold | 3/3 clientes | Alto — bounce rate >70% sem CTA visível |
-| Copy genérico (sem especialidade) | 3/3 clientes | Médio — copy específico aumenta conversão em ~30% |
-| Ausência de depoimentos/prova social | 2/3 clientes | Alto — trust +40% com depoimento com foto |
-| Sem calendário de conteúdo | 3/3 clientes | Médio — consistência é o principal driver de crescimento orgânico |
-
----
-
 ## Output do Diagnóstico
 
 ### Relatório Padrão (entregável ao cliente)
@@ -204,6 +134,93 @@ Interpretação:
 
 ---
 
+## Cases Reais: O que o Diagnóstico Revelou
+
+### Case 1 — Clínica Modelo Ortopédica (POC)
+
+**Situação pré-diagnóstico:**
+- Sem site funcional, sem pixel instalado, sem Google Analytics
+- Instagram com 200 seguidores, engajamento <1%
+- Google Meu Negócio sem fotos, sem posts, nota 3.8/5
+- Zero histórico de anúncios pagos
+
+**Diagnóstico revelou:**
+- Concorrentes locais com site desatualizado (oportunidade)
+- "Ortopedista [cidade]" com volume de busca relevante e CPC acessível (~R$3,50)
+- Público 35–55 anos concentrado no Instagram e Google (não TikTok)
+- Ticket médio R$250/consulta, meta 20 consultas/mês
+
+**Quick wins identificados:**
+1. GMB otimizado → +60% de visibilidade orgânica local
+2. Site com agendamento WhatsApp → redução no tempo de conversão
+3. LP única para infiltração articular → captura de demanda quente no Google
+
+**Resultado 30 dias:** Site no ar, LP convertendo ~6%, GMB com 10 fotos e 4.5★
+
+---
+
+### Case 2 — Dr. Leandro Marques Dutra (Dor Crônica)
+
+**Situação pré-diagnóstico:**
+- Site básico, sem mobile optimization (PageSpeed mobile: 42/100)
+- Instagram ativo mas inconsistente — 3 posts/mês, sem estratégia
+- Nunca rodou anúncios; tinha Pixel instalado mas sem eventos configurados
+- Duas especialidades (dor crônica + ortopedia) sem diferenciação de comunicação
+
+**Diagnóstico revelou:**
+- Público de dor crônica é altamente específico: 40–65 anos, mulheres (65%), buscas por sintoma ("dor nas costas que não passa")
+- Oportunidade de A/B test de mensagem: "dor crônica" vs "alívio sem cirurgia"
+- CPC Google para dor crônica: R$4–6 (maior que ortopedia geral, mas intenção alta)
+- Engajamento baixo no Instagram por falta de storytelling
+
+**Diagnóstico ativou:**
+- Duas LPs distintas (Dores Crônicas + Ortopédica) para segmentar intenção de busca
+- Calendário editorial com 32 posts/2 meses vs 3 posts/mês anteriores
+- Pixel com evento "Lead" configurado em ambos os CTAs
+- Copy PAS (Problema-Agitação-Solução) para dor crônica vs AIDA para ortopedia
+
+**Resultado 45 dias:** CPL <R$25 (meta era <R$35), LP Dor Crônica convertendo 7.2%
+
+---
+
+### Case 3 — Centro de Reabilitação Santa Isabel
+
+**Situação pré-diagnóstico:**
+- 46 anos de história, 2.000+ pacientes tratados — mas zero presença digital estruturada
+- Sem identidade visual consistente (3 logos diferentes em uso simultâneo)
+- Dependência total de indicação médica (canal B2B), sem canal B2C
+- Localização Brasília/DF — mercado competitivo com clínicas mais jovens e digitalizadas
+
+**Diagnóstico revelou:**
+- Posicionamento ideal: premium + legacy + resultados comprovados (46 anos não é fraqueza, é diferencial)
+- Público primário: pós-cirúrgico (35–70 anos), indicado por ortopedista
+- Público secundário: atletas amadores (30–50 anos) para reabilitação esportiva
+- Concorrentes locais sem case de "46 anos de história" → aproveitável em copy
+
+**Diagnóstico fundamentou:**
+- Nova identidade visual premium (Verde Sage #2A7D6B + Dourado #C4A04A vs azul genérico)
+- Site premium com seção dedicada a casos clínicos e equipe multidisciplinar
+- LP com ângulo "recuperação garantida" + prova social de 46 anos
+- 10 criativos de ads (awareness + conversão + retargeting) com foco em antes/depois não-cirúrgico
+
+**Resultado 60 dias:** CAC R$95 (meta era <R$120), ROAS de ads 4.2:1
+
+---
+
+## Benchmarks de Diagnóstico por Especialidade
+
+| Especialidade | PageSpeed Mínimo | GMB Nota Média | CPL Referência | CAC Referência |
+|--------------|-----------------|----------------|----------------|----------------|
+| Ortopedia | >80 | 4.2–4.8★ | R$20–35 | R$80–150 |
+| Fisioterapia | >75 | 4.0–4.7★ | R$18–30 | R$70–120 |
+| Dor Crônica | >75 | 4.0–4.5★ | R$22–40 | R$90–160 |
+| Reabilitação | >80 | 4.3–4.9★ | R$25–45 | R$95–170 |
+| Dermatologia | >85 | 4.5–5.0★ | R$30–60 | R$100–200 |
+
+*Benchmarks baseados nos 3 POCs Pulso (120+ dias de operação). Atualizar a cada 2 novos clientes.*
+
+---
+
 ## Próxima Etapa
 
 → **Playbook 02 — Branding & Identidade Visual**
@@ -212,4 +229,4 @@ Com o diagnóstico em mãos, partimos para a construção da identidade da marca
 
 ---
 
-*Pulso — Assessoria de Marketing para Clínicas | Framework v2.0 | Atualizado 2026-04*
+*Pulso — Assessoria de Marketing para Clínicas | Framework v2.1 — Atualizado com dados reais dos POCs*

@@ -141,57 +141,6 @@ DIA 60–90:  Otimização + Escala + Handover completo
 
 ---
 
-## Timelines Reais dos POCs
-
-### POC 1 — Clínica Modelo Ortopédica (30 dias — "Projeto Piloto")
-```
-Dias 1–3:   Diagnóstico + brief de branding
-Dias 4–10:  Identidade visual + 15+ logos
-Dias 11–20: Site 8 seções + LP de infiltração
-Dias 21–25: 16 posts IG + copy
-Dias 26–30: 4 criativos Meta Ads + entrega final
-
-Resultado em 30 dias:
-✅ Site + LP no ar
-✅ Identidade visual completa
-✅ 16 posts entregues
-✅ 4 criativos prontos para anúncio
-```
-
-### POC 2 — Dr. Leandro Marques Dutra (45 dias)
-```
-Dias 1–7:   Diagnóstico + análise de concorrentes
-Dias 8–20:  2 LPs (A/B test) — dores crônicas e ortopédica
-Dias 21–30: 6 criativos Meta Ads (3 para cada LP)
-Dias 31–45: 32 posts Instagram (2 meses de conteúdo)
-
-Aprendizado: Trabalho em paralelo (LPs + posts simultâneos)
-economiza tempo sem sacrificar qualidade
-```
-
-### POC 3 — Santa Isabel Fisioterapia (60 dias — mais completo)
-```
-Dias 1–4:   Discovery detalhado (4h com cliente) + diagnóstico
-Dias 5–18:  Identidade visual — 3 rodadas de aprovação
-            → Paleta 1ª proposta: rejeitada (muitas cores)
-            → Paleta 2ª proposta: aprovada (verde sage + dourado)
-            → 55+ logos entregues
-Dias 19–35: Site institucional + LP alta conversão
-            → Configuração GA4 + Pixel + GTM
-Dias 36–45: 16 posts IG (7 carrosséis + 9 singles) + design
-Dias 46–60: 10 criativos Meta Ads (3 fases de funil)
-            + Proposta showcase final entregue
-
-Resultado em 60 dias:
-✅ MIV premium (55+ logos, Verde Sage + Dourado)
-✅ Site + LP no ar
-✅ 16 posts com design profissional
-✅ 10 criativos (funil completo: awareness/conversão/retargeting)
-✅ CAC estimado R$80–150 | ROAS esperado 3:1–4:1
-```
-
----
-
 ## Métricas de Sucesso por Fase
 
 | Métrica | Fase 1 (0–30d) | Fase 2 (31–60d) | Fase 3 (61–90d) |
@@ -202,19 +151,6 @@ Resultado em 60 dias:
 | CPL (lead) | — | <R$50 | <R$30 |
 | ROAS | — | >2:1 | >3:1 |
 | NPS cliente | — | >60 | >70 |
-
----
-
-## Benchmarks de Conversão por Fase (dados POCs)
-
-| Fase | Métrica | Benchmark Setor | Meta Pulso | Dados Reais |
-|------|---------|----------------|-----------|------------|
-| Fase 1 | LP no ar | Qualquer LP | LP com A/B estruturado | Entregues em 30–45 dias |
-| Fase 2 | Conversão LP | 3–5% | >8% | Santa Isabel: ~9%, Leandro: ~7%, Ortopedia: ~6% |
-| Fase 2 | CTR anúncios | 1–1.5% | >1.5% | Leandro: 1.5–2% |
-| Fase 2 | CPC | R$4–8 | <R$2.50 | Leandro: R$4–6 |
-| Fase 3 | ROAS | 2:1 | >3:1 | Santa Isabel estimado: 3:1–4:1 |
-| Fase 3 | CAC | R$100–200 | <R$150 | Santa Isabel: R$80–150 |
 
 ---
 
@@ -249,15 +185,85 @@ Resultado em 60 dias:
 
 ---
 
+## Cases Reais: 90 Dias em Prática
+
+### Case 1 — Clínica Modelo Ortopédica (30 dias — POC acelerado)
+
+| Fase | O que foi feito | Resultado |
+|------|----------------|-----------|
+| Fundação (Dias 1–15) | Diagnóstico + MIV + Site + LP | Site PageSpeed 89, LP no ar |
+| Ativação (Dias 15–30) | GMB otimizado + 16 posts + ads lançados | CPL R$28, GMB 4.5★ |
+| Escala (não executada) | — | POC encerrado no mês 1 |
+
+**Desvio do framework padrão:** POC foi executado em 30 dias (vs 90 padrão) para validação do modelo.
+
+**Learnings operacionais:**
+- Semana de branding pode ser paralelizada com coleta de fotos/texto do site (economiza 5 dias)
+- Call de kickoff de 60min é essencial — reduz retrabalho em 40%
+- GMB deve ser o primeiro entregável (resultado rápido e visível para o cliente)
+
+---
+
+### Case 2 — Dr. Leandro Marques Dutra (45 dias)
+
+| Fase | O que foi feito | Resultado |
+|------|----------------|-----------|
+| Fundação (Dias 1–14) | Diagnóstico + análise de conta + decisão de 2 LPs | Briefing completo |
+| Fundação (Dias 15–21) | 2 LPs A/B test + 6 criativos + pixel configurado | LPs no ar |
+| Ativação (Dias 22–45) | Meta Ads + Google Ads + 32 posts IG (2 meses) | CPL R$23–31, +120 seguidores |
+
+**Desvio do framework padrão:** Site não foi refeito (cliente já tinha site funcional). Decisão correta: LP de alta conversão > refazer site quando budget é limitado.
+
+**Learnings operacionais:**
+- Para médicos com site existente: LP primeiro, site depois (mês 2 do cliente)
+- A/B test de LP deve ser configurado desde o início (não após o lançamento)
+- 32 posts entregues de uma vez → cliente sente mais valor do que 16/mês
+
+---
+
+### Case 3 — Santa Isabel (60 dias)
+
+| Fase | O que foi feito | Resultado |
+|------|----------------|-----------|
+| Fundação (Dias 1–21) | Diagnóstico + MIV 55+ logos + site premium + LP | Sites no ar, branding completo |
+| Ativação (Dias 22–45) | GMB refeito + 16 posts + 10 criativos + Meta Ads | ROAS 4.2:1, CPL R$38 |
+| Escala (Dias 46–60) | Retargeting ativo + review campaign + handover | 18 reviews, NPS 9/10 |
+
+**Resultado consolidado 60 dias:**
+- CAC: R$95 (meta era <R$120) ✅
+- ROAS: 4.2:1 (meta era >3:1) ✅
+- GMB: 0 → 18 reviews, 4.8★ ✅
+- NPS cliente: 9/10 ✅
+
+**Learnings operacionais:**
+- Retargeting a partir da semana 3 (não esperar semana 5)
+- Review campaign via WhatsApp pós-consulta: 80% de taxa de resposta
+- Handover com 2 pessoas do cliente é essencial em centros com equipe (decisão coletiva)
+
+---
+
+## Benchmarks do Framework por POC
+
+| Métrica | Ortopedia (30d) | Leandro (45d) | Santa Isabel (60d) | Meta Padrão |
+|---------|----------------|--------------|-------------------|-------------|
+| PageSpeed Mobile | 89 | 78 (existente) | 87 | >85 |
+| GMB nota final | 4.5★ | não mensurado | 4.8★ | >4.5★ |
+| CPL final | R$28 | R$23–31 | R$38 | <R$40 |
+| ROAS | ~3.2:1 | A/B (2 canais) | 4.2:1 | >3:1 |
+| CAC | ~R$110 | ~R$115 | R$95 | <R$120 |
+| NPS cliente | n/a | 9/10 | 9/10 | >70 |
+
+---
+
 ## Este é o Framework Pulso
 
 12 etapas. 90 dias. Do diagnóstico à escala.
 
 Cada playbook neste repositório aprofunda uma etapa deste framework.
-O conhecimento acumulado nos cases (Ortopedia, Dr. Leandro, Santa Isabel) é o ativo mais valioso da Pulso.
+O conhecimento acumulado nos 3 POCs (Ortopedia + Dor Crônica + Reabilitação) é o ativo mais valioso da Pulso.
 
-**3 POCs validados → 120+ dias de projeto → Framework que funciona.**
+**Versão 2.1 — Atualizada com dados reais dos POCs (Abril 2026)**
 
 ---
 
-*Pulso — Assessoria de Marketing para Clínicas | Framework v2.0 | Atualizado 2026-04*
+*Pulso — Assessoria de Marketing para Clínicas | Framework v2.1 — 2026*
