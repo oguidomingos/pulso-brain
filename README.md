@@ -1,8 +1,10 @@
 # PULSO — Assessoria de Marketing para Clínicas e Consultórios Médicos
 
-**Pulso** é uma assessoria integrada de marketing digital especializada em clínicas, consultórios e centros de reabilitação. Oferecemos um pacote completo de branding, presença digital, campanhas e análise estratégica para profissionais de saúde.
+**Pulso** é uma assessoria integrada de marketing digital especializada em clínicas, consultórios e centros de reabilitação. Framework consolidado com 3 POCs validados. Do diagnóstico à escala em 90 dias.
 
-## 📋 Visão Geral
+---
+
+## Visão Geral
 
 Pulso cobre 10 pilares de serviço:
 
@@ -17,168 +19,184 @@ Pulso cobre 10 pilares de serviço:
 9. **Proposta Comercial** — Apresentação customizada
 10. **Treinamento** — Handover e documentação do cliente
 
-## 🎯 Clientes Modelo (POC)
-
-### 1. **Clínica Modelo Ortopédica — POC (DES-174 a DES-179)**
-Prova de conceito inicial do modelo Pulso. Entregáveis completos:
-- ✅ Identidade Visual (DES-174)
-- ✅ Site Premium (DES-175)
-- ✅ Copy Posts Instagram (DES-176)
-- ✅ Design Posts Instagram (DES-177)
-- ✅ Criativos Meta Ads (DES-178)
-- ✅ Landing Page Infiltração (DES-179)
-
-**Link Showcase:** https://oguidomingos.github.io/pulso-clinica-brand/
-
 ---
 
-### 2. **Clínica da Dor — Dr. Leandro Marques Dutra (DES-180 a DES-188)**
-
-**Landing Pages:**
-- LP 1: Dores Crônicas (modelo Saint Moritz) — DES-180
-- LP 2: Ortopédica A/B Test — DES-181
-
-**Copy:**
-- Copy LP Dores Crônicas — DES-182
-- Copy LP Clínica Ortopédica — DES-183
-
-**Conteúdo Social:**
-- Posts Instagram (1 mês) — DES-185
-- Design Posts Instagram (1 mês) — DES-186
-
-**Criativos Ads:**
-- 6 variações Meta Ads — DES-184
-
-**Visuais:**
-- Assets visuais para LPs — DES-188
-- Design visual revisão — DES-187
-
-**Links:**
-- LP Dores Crônicas: https://oguidomingos.github.io/trion-intelligence/lp-dores-cronicas.html
-- LP Ortopédica: https://oguidomingos.github.io/lp2-clinica-ortopedica/
-
----
-
-### 3. **Clínica de Fisioterapia Santa Isabel (DES-191 a DES-196, Parent: DES-198)**
-
-46 anos de operação. Maior centro de reabilitação privado do DF. POC consolidada.
-
-**Entregas Completas:**
-- ✅ Identidade Visual (DES-191) — Paleta verde sage + dourado
-- ✅ Site Premium (DES-192)
-- ✅ Copy Posts Instagram (DES-193) — 16 posts (7 carrosseis + 9 singles)
-- ✅ Design Posts Instagram (DES-194) — Todos renderizados
-- ✅ Criativos Meta Ads (DES-195) — 10 peças (awareness + conversão + retargeting)
-- ✅ Landing Page Alta Conversão (DES-196) — Com agendamento integrado
-
-**Apresentação:**
-https://oguidomingos.github.io/proposta-santa-isabel/
-
-**Diagnóstico Organizado (DOCX):**
-https://docs.google.com/document/d/1ivBFIa0vmmIcrfYb-LYXv5WaFm-t-lvf/
-
-**Arquivos no Drive:**
-- Identidade Visual (55 logos + mockups): https://drive.google.com/drive/folders/1nS32_cBQU6Lf17hfnCck97n3g_aeaF-k
-- Posts Instagram: https://drive.google.com/drive/folders/1rVwwrNX3uL24wo2EqpqmegE_48sw19dM
-- Criativos Ads: https://drive.google.com/drive/folders/12SHKm4G0Pq9MLnaJTsrmWbWsWnVUhbQ7
-
----
-
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
-pulso/
-├── README.md                    # Este arquivo
-├── KNOWLEDGE.md                 # Base de conhecimento consolidada
-├── GUIDELINES.md                # Guia de qualidade e padrões
-├── PLAYBOOKS/
-│   ├── 01-diagnostic.md         # Processo de diagnóstico
-│   ├── 02-branding.md           # Processo de identidade visual
-│   ├── 03-website.md            # Construção de sites premium
-│   ├── 04-landing-pages.md      # Otimização de landing pages
-│   ├── 05-social-media.md       # Estratégia de redes sociais
-│   ├── 06-paid-ads.md           # Campanhas pagas (Meta + Google)
-│   ├── 07-copywriting.md        # Técnicas de copy para saúde
-│   ├── 08-seo.md                # SEO para clínicas
-│   ├── 09-pitch.md              # Apresentação e proposta comercial
-│   └── 10-handover.md           # Treinamento do cliente
-├── TEMPLATES/
-│   ├── diagnostic-template.md   # Modelo de diagnóstico
-│   ├── proposal-template.md     # Modelo de proposta
-│   ├── content-calendar.md      # Calendário de conteúdo
-│   └── brand-guidelines.md      # Template de manual ID visual
-├── CASES/
-│   ├── ort-clinica-modelo/      # POC Ortopédica
-│   ├── clinica-dor-leandro/     # Dr. Leandro
-│   ├── santa-isabel/            # Santa Isabel (POC consolidada)
-│   └── CASE-STUDIES.md          # Análise dos casos
-├── RESOURCES/
-│   ├── industry-data.md         # Dados sobre mercado de saúde
-│   ├── best-practices.md        # Melhores práticas
-│   ├── tools-stack.md           # Stack de ferramentas
-│   └── LINKS.md                 # Referências e links úteis
-└── ROADMAP.md                   # Evolução e próximas clínicas
+pulso-brain/
+│
+├── README.md                          # Este arquivo — índice completo
+│
+├── Playbooks/                         # 12 processos operacionais
+│   ├── 01-diagnostico.md
+│   ├── 02-branding.md
+│   ├── 03-site-premium.md
+│   ├── 04-landing-pages.md
+│   ├── 05-social-media.md
+│   ├── 06-trafego-pago.md
+│   ├── 07-copywriting.md
+│   ├── 08-seo.md
+│   ├── 09-proposta-comercial.md
+│   ├── 10-handover.md
+│   ├── 11-analise-de-conta.md
+│   └── 12-onboarding-framework.md
+│
+├── Templates/                         # 10 templates operacionais
+│   ├── 01-questionario-onboarding.md
+│   ├── 02-relatorio-diagnostico.md
+│   ├── 03-proposta-comercial.md
+│   ├── 04-calendario-conteudo.md
+│   ├── 05-relatorio-mensal.md
+│   ├── 06-brief-criativo.md
+│   ├── 07-ab-test.md
+│   ├── 08-briefing-visual.md
+│   ├── 09-checklist-entrega.md
+│   └── 10-plano-90-dias.md
+│
+├── Agents/                            # 5 agent docs (context para cada agente)
+│   ├── 01-web-builder.md
+│   ├── 02-designer.md
+│   ├── 03-content-creator.md
+│   ├── 04-ads-manager.md
+│   └── 05-sales-strategist.md
+│
+├── Frameworks/                        # Metodologias usadas na Pulso
+│   ├── framework-4-fits.md
+│   └── framework-escada-de-valor.md
+│
+├── Referencias/                       # Knowledge base e diretrizes
+│   ├── KNOWLEDGE.md
+│   ├── GUIDELINES.md
+│   ├── LINKS.md
+│   └── ROADMAP.md
+│
+├── Cases/                             # Análise dos projetos entregues
+│   └── CASE-STUDIES.md
+│
+├── Cursos/                            # Materiais de capacitação (futuro)
+│
+└── Assets/                            # Logos, imagens, arquivos Pulso (futuro)
 ```
 
 ---
 
-## 🔑 Conhecimento Consolidado
+## O Framework de 90 Dias
 
-Ver `KNOWLEDGE.md` para:
-- Posicionamento de cada tipo de clínica
-- Técnicas de copywriting por especialidade
-- Estratégias de tráfego pago comprovadas
-- Estrutura de sites de alto impacto
-- Indicadores e métricas esperadas
-
----
-
-## 🎨 Qualidade e Padrões
-
-Ver `GUIDELINES.md` para:
-- Checklist de entrega por serviço
-- Padrões de design
-- Padrões de copywriting
-- Critérios de aprovação
-- Protocolo de feedback
+| Fase | Dias | Foco | Playbooks |
+|------|------|------|---------|
+| Fundação | 1–30 | Diagnóstico + Branding + Site + LP | PB 01–04 |
+| Ativação | 31–60 | Social Media + Anúncios + GMB | PB 05–08 |
+| Escala | 61–90 | Otimização + Relatório + Renovação | PB 09–12 |
 
 ---
 
-## 📊 Entregas por Projeto
+## Índice dos Playbooks
 
-### Sumário de Casos
-
-| Cliente | Status | Sites | Posts | Criativos | Paleta | Link Showcase |
-|---------|--------|-------|-------|-----------|--------|---------------|
-| Clínica Modelo ORT | ✅ Done | 2 (site + LP) | 16 | 4 | Azul + branco | [Link](https://oguidomingos.github.io/pulso-clinica-brand/) |
-| Dr. Leandro (Dor) | ✅ Done | 2 LPs | 32 (2 meses) | 6 | A/B themes | [Link](https://oguidomingos.github.io/trion-intelligence/lp-dores-cronicas.html) |
-| Santa Isabel | ✅ Done | 2 (site + LP) | 16 | 10 | Verde sage + ouro | [Link](https://oguidomingos.github.io/proposta-santa-isabel/) |
-
----
-
-## 🚀 Próximos Passos
-
-1. **Validação com clientes** — Feedback real de conversão
-2. **Refinamento de templates** — Baseado em resultados
-3. **Automação de processos** — Reduzir tempo de entrega
-4. **Escalabilidade** — Team hiring para múltiplos clientes
-5. **Dados e métricas** — Dashboard de resultados
+| # | Playbook | Quando Usar |
+|---|---------|------------|
+| 01 | [Diagnóstico Digital](Playbooks/01-diagnostico.md) | Início de todo novo cliente |
+| 02 | [Branding & Identidade Visual](Playbooks/02-branding.md) | Após diagnóstico aprovado |
+| 03 | [Site Premium](Playbooks/03-site-premium.md) | Após identidade aprovada |
+| 04 | [Landing Pages](Playbooks/04-landing-pages.md) | Com site ou independente |
+| 05 | [Social Media](Playbooks/05-social-media.md) | Após fundação digital |
+| 06 | [Tráfego Pago](Playbooks/06-trafego-pago.md) | Com LP + Pixel pronto |
+| 07 | [Copywriting](Playbooks/07-copywriting.md) | Transversal — todos os serviços |
+| 08 | [SEO](Playbooks/08-seo.md) | Médio/longo prazo, sempre |
+| 09 | [Proposta Comercial](Playbooks/09-proposta-comercial.md) | Prospecção e renovação |
+| 10 | [Handover](Playbooks/10-handover.md) | Final de cada ciclo |
+| 11 | [Análise de Conta](Playbooks/11-analise-de-conta.md) | Setup de agentes |
+| 12 | [Framework 90 Dias](Playbooks/12-onboarding-framework.md) | Visão macro do processo |
 
 ---
 
-## 📞 Contato e Coordenação
+## Índice dos Templates
 
-**Projeto:** Pulso — Assessoria de Marketing para Saúde
-**Responsável:** CEO (Guilherme Domingos)
-**Agentes envolvidos:** Designer, Web Builder, Content Creator, Sales Strategist
-**Tracker:** Issues DES-171, DES-174 a DES-196, DES-198
+| # | Template | Quando Usar |
+|---|---------|------------|
+| 01 | [Questionário Onboarding](Templates/01-questionario-onboarding.md) | Call de kickoff |
+| 02 | [Relatório de Diagnóstico](Templates/02-relatorio-diagnostico.md) | Após análise completa |
+| 03 | [Proposta Comercial](Templates/03-proposta-comercial.md) | Após call de discovery |
+| 04 | [Calendário de Conteúdo](Templates/04-calendario-conteudo.md) | Planejamento mensal |
+| 05 | [Relatório Mensal](Templates/05-relatorio-mensal.md) | Dia 1–5 de cada mês |
+| 06 | [Brief Criativo](Templates/06-brief-criativo.md) | Antes de qualquer criação |
+| 07 | [A/B Test](Templates/07-ab-test.md) | Otimização de LP |
+| 08 | [Briefing Visual](Templates/08-briefing-visual.md) | Projetos de identidade visual |
+| 09 | [Checklist de Entrega](Templates/09-checklist-entrega.md) | Antes de marcar task como done |
+| 10 | [Plano 90 Dias](Templates/10-plano-90-dias.md) | Kickoff com novo cliente |
 
 ---
 
+## Índice dos Agent Docs
 
+| Agente | Doc | Acionar quando |
+|--------|-----|----------------|
+| Web Builder | [01-web-builder.md](Agents/01-web-builder.md) | Sites, LPs, deploy, SEO técnico |
+| Designer | [02-designer.md](Agents/02-designer.md) | MIV, posts, criativos, mockups |
+| Content Creator | [03-content-creator.md](Agents/03-content-creator.md) | Copy, social media, WhatsApp |
+| Ads Manager | [04-ads-manager.md](Agents/04-ads-manager.md) | Meta Ads, Google Ads, rastreamento |
+| Sales Strategist | [05-sales-strategist.md](Agents/05-sales-strategist.md) | Prospecção, fechamento, renovação |
 
-Estudo de público: https://docs.google.com/document/d/1hc5V96-jGEfJxwKnfCfnHCEhq227CoZpqoftiN3Ilck/edit?usp=sharing
+---
 
+## Frameworks
 
-**Última atualização:** 2026-04-08
-**Status:** POC validado, pronto para escala
+| Framework | Doc | Quando Usar |
+|-----------|-----|------------|
+| V4 4-Fits | [framework-4-fits.md](Frameworks/framework-4-fits.md) | Diagnóstico estratégico inicial |
+| Escada de Valor | [framework-escada-de-valor.md](Frameworks/framework-escada-de-valor.md) | Arquitetura de funil |
+
+---
+
+## Clientes Modelo (POC)
+
+### 1. Clínica Modelo Ortopédica (DES-174 a DES-179)
+- ✅ Identidade Visual | ✅ Site Premium | ✅ Copy + Design Posts IG | ✅ Criativos Ads | ✅ LP Infiltração
+- **Showcase:** https://oguidomingos.github.io/pulso-clinica-brand/
+
+### 2. Clínica da Dor — Dr. Leandro Marques Dutra (DES-180 a DES-188)
+- ✅ 2 LPs (Dores Crônicas + Ortopédica A/B) | ✅ 32 Posts + Copy | ✅ 6 Criativos Meta
+- **LP:** https://oguidomingos.github.io/trion-intelligence/lp-dores-cronicas.html
+
+### 3. Clínica de Fisioterapia Santa Isabel (DES-191 a DES-196)
+- ✅ MIV completo (verde sage + dourado) | ✅ Site + LP | ✅ 16 Posts | ✅ 10 Criativos Meta
+- **Apresentação:** https://oguidomingos.github.io/proposta-santa-isabel/
+
+---
+
+## Sumário de Casos
+
+| Cliente | Status | Sites | Posts | Criativos | Link |
+|---------|--------|-------|-------|-----------|------|
+| Clínica Modelo ORT | ✅ Done | 2 | 16 | 4 | [Link](https://oguidomingos.github.io/pulso-clinica-brand/) |
+| Dr. Leandro (Dor) | ✅ Done | 2 LPs | 32 | 6 | [Link](https://oguidomingos.github.io/trion-intelligence/lp-dores-cronicas.html) |
+| Santa Isabel | ✅ Done | 2 | 16 | 10 | [Link](https://oguidomingos.github.io/proposta-santa-isabel/) |
+
+---
+
+## ID Visual Pulso (Própria Marca)
+
+```css
+:root {
+  --noite: #0D1B2A;   /* Background principal */
+  --pulso: #00BFA5;    /* Accent/CTA */
+  --areia: #F0E9DC;    /* Texto principal */
+  --nevoa: #8096A7;    /* Texto secundário */
+  --branco: #FAFAF8;   /* Highlights */
+}
+/* Fontes: DM Serif Display (headings) + DM Sans (body) */
+```
+
+---
+
+## GitHub Repository
+
+**Repo:** https://github.com/oguidomingos/pulso-brain
+**Branch de deploy (site):** gh-pages
+**Branch de knowledge base:** main
+
+---
+
+**Última atualização:** 2026-04-22
+**Versão do Framework:** 2.0
+**Status:** POC validado — Fase de escala
