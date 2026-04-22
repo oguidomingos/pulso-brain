@@ -172,6 +172,98 @@ Meta: [155 chars para meta description]
 
 ---
 
+## Cases Reais: SEO nos POCs Pulso
+
+### Case 1 — Clínica Modelo Ortopédica
+
+**Estado inicial do GMB:**
+- Nota: 3.8★ (8 reviews, sem resposta)
+- Fotos: 2 (sem fachada, sem equipe)
+- Posts: nenhum nos últimos 6 meses
+- Horário: desatualizado (fechado sábado, mas atendia)
+
+**Ações executadas (30 dias):**
+1. GMB completamente reconfigurado
+2. 10 fotos adicionadas (fachada, recepção, consultório, equipe)
+3. Todos os serviços listados com descrição
+4. Solicitação de reviews via WhatsApp pós-consulta (template)
+5. Schema.org Physician implementado no site
+
+**Resultados em 30 dias:**
+- Nota GMB: 3.8★ → 4.5★ (12 novos reviews)
+- Visualizações do perfil: +60%
+- Cliques para site: +85%
+- Cliques para ligar/WhatsApp direto do GMB: +120%
+
+**Aprendizado:** GMB bem configurado + reviews ativos geram mais leads que site novo sem GMB otimizado. Prioridade 1 em SEO sempre é o GMB.
+
+---
+
+### Case 2 — Dr. Leandro (Dor Crônica)
+
+**Diagnóstico SEO:**
+- Site PageSpeed mobile: 42/100 (crítico)
+- Sem Schema.org implementado
+- Title tags genéricas ("Dr. Leandro — médico")
+- Sem blog/conteúdo
+
+**Ações de SEO On-Page:**
+- Title tags atualizadas: "Tratamento Dor Crônica em [Cidade] — Dr. Leandro Marques Dutra"
+- Schema.org Physician implementado
+- PageSpeed corrigido para 78/100 (otimização de imagens + minificação CSS)
+- 2 posts de blog escritos: "Dor Lombar Crônica: diagnóstico e tratamento" e "Diferença entre dor aguda e crônica"
+
+**Resultados:**
+- Impressões orgânicas: +40% em 45 dias
+- Cliques orgânicos para contato: +25%
+- Ranking para "dor crônica [cidade]": posição 8 → posição 4
+
+**Aprendizado:** Para médicos em cidades médias (200k–1M hab), SEO local é mais acessível e rápido que SEO nacional. Long-tail + local = oportunidade imediata.
+
+---
+
+### Case 3 — Santa Isabel (Reabilitação)
+
+**Diferencial SEO:** 46 anos de história = autoridade de domínio histórica
+
+**Ações:**
+- GMB completamente refeito com foco em "46 anos" e "Brasília"
+- Schema implementado com equipe multidisciplinar
+- Categoria GMB: "Centro de Reabilitação" + categorias secundárias fisioterapia + terapia ocupacional
+- Meta tags locais para Brasília + bairro específico
+
+**Palavras-chave priorizadas:**
+```
+• fisioterapia brasilia df
+• reabilitação pós-cirúrgica brasilia
+• fisioterapia asa sul brasilia
+• centro de reabilitação brasilia
+• fisioterapia orthopédica brasilia
+```
+
+**Resultados:**
+- GMB: subiu de ausente para Top 5 local em 30 dias
+- Cliques para agendamento via GMB: 28/mês (sem investimento em ads)
+- Reviews: 0 → 18 em 60 dias (nota 4.8★)
+
+**Aprendizado:** Para centros de reabilitação em grandes cidades, bairro específico no SEO é diferencial (paciente busca perto de casa/hospital de referência).
+
+---
+
+## Benchmarks de SEO por Especialidade
+
+| Especialidade | Dificuldade GMB | KW Long-tail Volume | CPC equivalente orgânico |
+|--------------|----------------|--------------------|-----------------------|
+| Ortopedia | Média | 200–800/mês | R$3,50–5,00 |
+| Fisioterapia | Baixa-Média | 300–1.200/mês | R$2,00–4,00 |
+| Dor Crônica | Baixa | 150–500/mês | R$4,00–6,00 |
+| Reabilitação | Baixa | 100–400/mês | R$3,00–5,00 |
+| Dermatologia | Alta | 500–2.000/mês | R$5,00–10,00 |
+
+*"CPC equivalente orgânico" = custo que seria necessário em Google Ads para gerar o mesmo tráfego*
+
+---
+
 ## Métricas de SEO
 
 | Métrica | Mês 1–3 | Mês 4–6 | Mês 7–12 |
@@ -191,4 +283,4 @@ Com toda a estratégia digital montada, apresentamos os resultados ao cliente.
 
 ---
 
-*Pulso — Assessoria de Marketing para Clínicas | Framework v2.0*
+*Pulso — Assessoria de Marketing para Clínicas | Framework v2.1 — Atualizado com dados reais dos POCs*

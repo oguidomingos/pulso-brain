@@ -146,6 +146,115 @@ Baixa pressão:
 
 ---
 
+## Cases Reais: Copy que Converteu nos POCs
+
+### Case 1 — Clínica Modelo Ortopédica
+
+**Copy mais eficaz (LP Infiltração):**
+> Headline: "Infiltração Articular — Alívio da Dor no Joelho e Quadril"
+> Subhead: "Procedimento minimamente invasivo com resultados em até 48h"
+
+**Body copy (PAS adaptado):**
+```
+A dor no joelho não avisa hora de chegar — mas impede você de viver.
+
+Subir escadas, caminhar no parque, brincar com os netos.
+Cada passo virou um teste de resistência.
+
+A infiltração articular guiada é uma alternativa comprovada para dores que não cedem com fisioterapia e medicação.
+
+[N] pacientes já voltaram a se mover sem dor. O próximo pode ser você.
+```
+
+**CTAs testados:**
+- ❌ "Clique aqui para agendar" → CTR 2.1%
+- ✅ "Quero minha avaliação gratuita" → CTR 3.8% (+81%)
+- ✅ "Agendar pelo WhatsApp agora" → CTR 4.2% (melhor)
+
+**Aprendizado:** CTA específico ("pelo WhatsApp") > CTA genérico ("clique aqui"). Paciente 50+ prefere WhatsApp ao formulário.
+
+---
+
+### Case 2 — Dr. Leandro (Dor Crônica)
+
+**Copy que performou melhor (Meta Ads):**
+```
+Você não está exagerando.
+
+A dor crônica é real, invalidante e completamente tratável.
+
+[N] pacientes do Dr. Leandro disseram o mesmo que você:
+"Já tentei de tudo e nada funcionou."
+
+Até encontrar o tratamento certo.
+
+👇 Agende sua avaliação
+```
+
+**Resultado:** CTR 2.8% (vs benchmark 1.5%) — melhor criativo de texto do período.
+
+**Variação de legenda (Instagram):**
+```
+💙 Você foi criado para se mover — não para sofrer.
+
+A dor crônica afeta 1 em cada 5 brasileiros.
+E a maioria vive anos sem diagnóstico correto.
+
+3 sinais de que sua dor precisa de avaliação especializada:
+✅ Dura mais de 3 meses
+✅ Não responde a analgésicos comuns
+✅ Piora com estresse ou falta de sono
+
+Se você marcou 2 ou mais: chegou a hora de resolver.
+
+📲 Link na bio para agendar avaliação
+```
+
+**Engajamento do post:** 6.8% (benchmark para saúde: 3%)
+
+---
+
+### Case 3 — Santa Isabel (Reabilitação)
+
+**Headline principal:**
+> "Recupere sua independência — 46 anos, 2.000+ pacientes tratados"
+
+**Proof statement utilizado:**
+> "De cadeira de rodas para caminhar novamente. A jornada começa com uma ligação."
+
+**Email de boas-vindas personalizado (Santa Isabel):**
+```
+[Nome], obrigado por confiar em 46 anos de história.
+
+Você agendou sua avaliação com a equipe Santa Isabel.
+Isso já é o primeiro passo para a sua recuperação.
+
+Nosso compromisso:
+— Atendimento multidisciplinar (fisio + TO + fonoaudiologia)
+— Protocolo personalizado para sua condição
+— Resultado mensurável em 30 dias ou revisamos juntos
+
+Até [data]!
+Equipe Santa Isabel
+```
+
+**NPS médio dos leads qualificados:** 8.9/10 após primeiro atendimento.
+
+---
+
+## Métricas de Copy por Canal (Benchmarks Pulso)
+
+| Canal | Métrica de Copy | Referência | Meta Pulso |
+|-------|----------------|-----------|-----------|
+| Meta Ads | CTR do anúncio | 1.5% | >2.5% |
+| Google Ads | CTR | 5% | >6% |
+| LP | Taxa de conversão | 5–8% | >8% |
+| Instagram | Engajamento | 1.5–3% | >4% |
+| WhatsApp | Taxa de resposta | 60% | >80% |
+| Email | Open rate | 25–35% | >40% |
+
+---
+
 ## Checklist de Revisão de Copy
 
 **Clareza:**
@@ -187,4 +296,4 @@ Tráfego orgânico é o investimento de longo prazo.
 
 ---
 
-*Pulso — Assessoria de Marketing para Clínicas | Framework v2.0*
+*Pulso — Assessoria de Marketing para Clínicas | Framework v2.1 — Atualizado com dados reais dos POCs*

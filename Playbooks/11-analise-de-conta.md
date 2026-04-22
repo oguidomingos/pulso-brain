@@ -151,6 +151,89 @@ Este briefing deve ser carregado no contexto de cada agente Pulso:
 
 ---
 
+## Cases Reais: Análise de Conta nos POCs
+
+### Case 1 — Clínica Modelo Ortopédica
+
+**Análise executada (Dimensão 1 — Negócio):**
+- Tipo: Clínica própria (consultório PJ)
+- Faturamento estimado: R$50–100k/mês
+- Sazonalidade: sem pico definido
+- Procedimento mais lucrativo: infiltração articular (maior ticket, alta demanda)
+- Estrutura: 1 médico + 1 recepcionista + nenhuma área de marketing interna
+
+**Análise executada (Dimensão 3 — ICP):**
+- Faixa etária: 45–70 anos (predominância feminina, 60%)
+- Como descobre: Google Maps (principal) + indicação médica
+- Principal objeção: "Já fiz tratamento antes e não funcionou"
+- Por que retorna: resultado rápido (infiltração tem retorno visível em 48h)
+
+**Persona documentada:**
+> **"Dona Maria, 58 anos"** — sofre de artrose no joelho há 3 anos. Ativa no WhatsApp, usa Google para buscar médicos. Tem plano de saúde mas prefere particular quando tem urgência. Maior medo: cirurgia.
+
+**UVP definida:**
+> "Para pacientes acima de 45 anos com dor no joelho ou quadril, somos o único consultório de ortopedia em [cidade] que oferece infiltração articular guiada com resultado em 48h, sem cirurgia, com atendimento no mesmo dia."
+
+**Arquétipo:** Cuidador + Sábio (confiança + conhecimento)
+
+---
+
+### Case 2 — Dr. Leandro Marques Dutra
+
+**Análise executada (Dimensão 2 — Marketing):**
+- Histórico Meta Ads: Nunca rodou (Pixel instalado mas sem eventos)
+- Histórico Google Ads: Nunca rodou
+- Instagram: 3 posts/mês, sem estratégia
+- Site PageSpeed mobile: 42/100 (crítico)
+
+**Análise executada (Dimensão 4 — Competição):**
+- 3 concorrentes mapeados na Meta Ads Library
+- Todos comunicavam "tratamento de dor" de forma genérica
+- Nenhum usava ângulo "sem cirurgia" como diferencial no copy
+- Oportunidade identificada: posicionamento como alternativa à cirurgia
+
+**UVP resultante:**
+> "Para pacientes entre 40–65 anos sofrendo de dor crônica há mais de 3 meses, Dr. Leandro oferece diagnóstico especializado em 1 consulta com protocolo multidisciplinar — sem indicar cirurgia quando não é necessário."
+
+**Arquétipo:** Sábio + Herói (o médico que resolve onde outros falharam)
+
+**Insight crítico da análise:** O médico atendia 2 especialidades mas comunicava apenas 1 (ortopedia). A análise revelou que dor crônica era mais lucrativa (sessões recorrentes) e menos competida no digital. Decisão: criar campanha separada para dor crônica.
+
+---
+
+### Case 3 — Santa Isabel (Reabilitação)
+
+**Análise executada (Dimensão 5 — Narrativa):**
+- Missão: "Devolver movimento e independência para quem acreditou que não conseguiria mais"
+- Valores: Cuidado, Experiência, Esperança, Multidisciplinaridade
+- Tom de voz: Acolhedor + Profissional (não frio, não informal)
+- História única: 46 anos de história, 2.000+ pacientes, maior centro DF
+
+**UVP resultante:**
+> "Para pacientes pós-cirúrgicos em Brasília que precisam de reabilitação de qualidade, Santa Isabel é o único centro multidisciplinar com 46 anos de experiência que oferece recuperação completa com equipe de fisio, TO e fonoaudiologia sob o mesmo teto."
+
+**Arquétipo:** Cuidador + Governante (cuidado com autoridade máxima)
+
+**Diferencial competitivo descoberto na análise:**
+- Nenhum concorrente em Brasília comunicava "multidisciplinar sob mesmo teto"
+- "46 anos" nunca foi usado em comunicação antes (3 logos desatualizados em uso)
+- 2.000+ pacientes era número desconhecido até o levantamento interno
+
+---
+
+## Benchmarks de Análise de Conta
+
+| Dimensão | Tempo de análise | Ferramentas |
+|----------|-----------------|-------------|
+| Negócio | 1–2h | Questionário + call |
+| Marketing | 2–3h | GMB + Instagram Insights + PageSpeed + Meta Ads Library |
+| Público/ICP | 1h | Call + Instagram Analytics |
+| Competição | 2h | Meta Ads Library + SimilarWeb + Google Search |
+| Narrativa | 1–2h | Call + análise de materiais existentes |
+| **Total** | **7–10h** | — |
+
+---
+
 ## Próxima Etapa
 
 → **Playbook 12 — Framework de Onboarding Completo**
@@ -159,4 +242,4 @@ O playbook mestre que une todas as etapas em um workflow de 90 dias.
 
 ---
 
-*Pulso — Assessoria de Marketing para Clínicas | Framework v2.0*
+*Pulso — Assessoria de Marketing para Clínicas | Framework v2.1 — Atualizado com dados reais dos POCs*

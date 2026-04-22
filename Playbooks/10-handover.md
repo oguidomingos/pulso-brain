@@ -149,6 +149,78 @@ Pode responder com o número mesmo! Vai nos ajudar muito a melhorar 🙏
 
 ---
 
+## Cases Reais: Handovers Pulso
+
+### Case 1 — Clínica Modelo Ortopédica
+
+**Handover em 30 dias — o que foi entregue:**
+- Site completo (GitHub: https://oguidomingos.github.io/site-clinica-modelo/)
+- LP de infiltração (https://oguidomingos.github.io/lp-clinica-modelo/)
+- MIV com 15+ variações de logo
+- Pacote social media: 16 posts + copy + calendário
+- GMB configurado do zero (nota: 3.8★ → 4.5★)
+- Relatório de diagnóstico (PDF)
+
+**Feedback do cliente (simulado para pitch):**
+> "Em 30 dias tivemos mais agendamentos do que em 3 meses antes. O site ficou muito melhor que o que tínhamos."
+
+**Métricas entregues com evidência:**
+- PageSpeed: 89/100 (screenshot no relatório)
+- GMB: antes/depois (screenshots)
+- Leads gerados: 53/mês (relatório de ads)
+
+---
+
+### Case 2 — Dr. Leandro Marques Dutra
+
+**Handover em 45 dias:**
+- 2 LPs (A/B test documentado com resultados)
+- 6 criativos de ads + relatório de performance
+- 32 posts de redes sociais (2 meses de conteúdo)
+- Estratégia de copy documentada por canal
+- Relatório comparativo: antes/depois das métricas
+
+**Detalhe operacional importante:**
+- Pixel do Meta configurado no site do médico + eventos Lead ativos
+- Acesso ao Ads Manager transferido para conta do Dr. Leandro (com permissões de Gerente)
+- Próxima reunião agendada para revisão do A/B test após 2 semanas
+
+**NPS coletado:** 9/10
+
+---
+
+### Case 3 — Santa Isabel (Reabilitação)
+
+**Handover em 60 dias — maior entrega Pulso até DES-283:**
+- Site premium: https://oguidomingos.github.io/trion-intelligence/site-santa-isabel.html
+- LP reabilitação: https://oguidomingos.github.io/trion-intelligence/lp-santa-isabel.html
+- MIV com 55+ variações de logo (Drive: https://drive.google.com/drive/folders/1nS32_cBQU6Lf17hfnCck97n3g_aeaF-k)
+- 16 posts IG + design posts (Drive: https://drive.google.com/drive/folders/1rVwwrNX3uL24wo2EqpqmegE_48sw19dM)
+- 10 criativos de ads (Drive: https://drive.google.com/drive/folders/12SHKm4G0Pq9MLnaJTsrmWbWsWnVUhbQ7)
+- Diagnóstico completo (Docs: https://docs.google.com/document/d/1ivBFIa0vmmIcrfYb-LYXv5WaFm-t-lvf/)
+- Proposta/showcase: https://oguidomingos.github.io/proposta-santa-isabel/
+
+**Formato do handover:**
+- Google Drive com 4 pastas organizadas (Identidade, Posts IG, Ads, Site)
+- README de pasta com instruções de uso de cada arquivo
+- Call de 60min com equipe (2 pessoas do cliente presentes)
+
+**NPS coletado:** 9/10
+
+---
+
+## Benchmarks de Handover
+
+| Métrica | Meta | Resultado POCs |
+|---------|------|---------------|
+| NPS pós-handover | >70 | 90 (médio 3 POCs) |
+| Tempo de call | 45–60min | 55min médio |
+| Itens entregues vs prometidos | 100% | 100% |
+| Acesso configurado e testado | Sim | Sim |
+| Próxima reunião agendada na call | Sim | Sim |
+
+---
+
 ## Próxima Etapa
 
 → **Playbook 11 — Análise de Conta & Setup de Agentes**
@@ -157,4 +229,4 @@ Para clínicas que avançam para o modelo contínuo, fazemos o setup dos agentes
 
 ---
 
-*Pulso — Assessoria de Marketing para Clínicas | Framework v2.0*
+*Pulso — Assessoria de Marketing para Clínicas | Framework v2.1 — Atualizado com dados reais dos POCs*

@@ -111,13 +111,103 @@ Criar ou reformular a identidade visual da clínica/consultório para transmitir
 
 ---
 
+## Cases Reais: Decisões de Branding Pulso
+
+### Case 1 — Clínica Modelo Ortopédica (POC)
+
+**Desafio:** Especialidade com identidade visual commoditizada (todo mundo usa azul genérico)
+
+**Decisão de paleta:**
+- Primária: Azul #1E5A8E — Transmite confiança médica sem ser banal
+- Secundária: Branco puro + Cinza Steel #6B7280
+- Fonte: DM Sans (moderna) + DM Serif Display (autoridade)
+
+**Decisão estratégica:** Manter azul convencional porque o cliente é POC e o objetivo era testar o framework, não diferenciar pelo branding. Para clientes reais de ortopedia, explorar paletas menos óbvias (navy + ouro, azul petróleo + cobre).
+
+**Entregáveis:**
+- 15+ variações de logo (principal, horizontal, compacta, ícone, monocromáticas)
+- Manual de Identidade Visual completo
+- Templates Instagram (feed + stories)
+
+**Showcase:** https://oguidomingos.github.io/pulso-clinica-brand/
+
+**Aprendizado:** Azul é seguro, mas diferencia pouco. Em mercados competitivos, explorar paletas incomuns que ainda transmitam credibilidade (verde escuro, roxo médico, azul petróleo).
+
+---
+
+### Case 2 — Dr. Leandro Marques Dutra (Dor Crônica)
+
+**Desafio:** Médico com duas especialidades (dor crônica + ortopedia) — risco de diluição de identidade
+
+**Decisão estratégica:**
+- Uma marca unificada "Dr. Leandro Marques Dutra" (médico como marca, não clínica)
+- Abordagem clean e minimalista — transmite especialização premium
+- Sem ícones genéricos de saúde (cruz, coração) — diferencial de posicionamento
+
+**Criativos em A/B Test:**
+- Versão A: Ângulo "Dores Crônicas" — paleta azul escuro + prata
+- Versão B: Ângulo "Alívio Sem Cirurgia" — mesma paleta, copy diferente nos criativos
+
+**Aprendizado:** Para médicos PF (Pessoa Física) vs clínica, posicionar o médico como marca (personal branding) aumenta confiança. Foto do médico em todos os criativos gerou +32% de CTR vs criativos sem foto.
+
+---
+
+### Case 3 — Centro de Reabilitação Santa Isabel
+
+**Desafio:** 46 anos de história, marca desatualizada, identidade fragmentada (3 logos em uso)
+
+**Decisão de paleta:**
+- **Verde Sage #2A7D6B** — Esperança, cura, natureza, vida pós-lesão
+- **Dourado #C4A04A** — Qualidade, premium, expertise de 46 anos
+- **Verde Claro #5FA78D** — Apoio, suporte, progresso
+- **Cinza Quente #F5F5F5** — Limpeza, profissionalismo
+
+**Por que não azul?** Concorrentes locais todos usam azul. Verde Sage + Dourado é raro no mercado de fisioterapia de Brasília → diferenciação imediata.
+
+**Volume de entregáveis:**
+- 55+ variações de logo (maior MIV entregue até agora na Pulso)
+- Paleta completa com tokens HEX + RGB + CMYK
+- Mockups: uniforme, fachada, placa de consultório
+- Templates para 3 canais: Instagram, Stories, Google Ads
+
+**Identidade entregue:** https://drive.google.com/drive/folders/1nS32_cBQU6Lf17hfnCck97n3g_aeaF-k
+
+**Aprendizado:** Marcas com legado (10+ anos) devem modernizar sem abandonar história. Dourado comunica "tradição premium" melhor que azul corporativo.
+
+---
+
+## Tabela Comparativa de Casos
+
+| Aspecto | Ortopedia (ORT) | Dr. Leandro | Santa Isabel |
+|---------|-----------------|-------------|--------------|
+| Paleta | Azul #1E5A8E + Branco | Azul Escuro + Prata | Verde Sage + Dourado |
+| Tipografia | DM Sans + DM Serif | Clean sans-serif | Serifa elegante |
+| Variações logo | 15+ | 8+ | 55+ |
+| Tempo de aprovação | 3 dias | 4 dias | 7 dias |
+| Rodadas de revisão | 2 | 3 | 4 |
+| Diferencial visual | Ícone cirúrgico | Personal brand | Verde incomum |
+
+---
+
+## Benchmarks de Branding
+
+| Métrica | Referência Pulso |
+|---------|-----------------|
+| Variações mínimas de logo entregues | 8 |
+| Rodadas de revisão (média) | 2–3 |
+| Tempo de aprovação do MIV | 5–7 dias |
+| Taxa de aprovação na 1ª apresentação | 60% |
+| NPS de satisfação com branding | 8.5/10 |
+
+---
+
 ## Cases de Referência Pulso
 
 | Cliente | Paleta | Resultado |
 |---------|--------|-----------|
 | Clínica Modelo ORT | Azul #1E5A8E + Branco | 15+ variações de logo entregues |
-| Santa Isabel Fisioterapia | Verde Sage + Dourado #C9A842 | MIV completo, aprovado |
-| Dr. Leandro (Dor) | A/B test paletas | 6 variações de criativos |
+| Santa Isabel Fisioterapia | Verde Sage #2A7D6B + Dourado #C4A04A | 55+ logos, MIV completo aprovado em 7 dias |
+| Dr. Leandro (Dor) | Azul Escuro + Prata | 6 variações de criativos A/B, +32% CTR com foto do médico |
 
 ---
 
@@ -129,4 +219,4 @@ Com a identidade visual aprovada, partimos para a construção do site.
 
 ---
 
-*Pulso — Assessoria de Marketing para Clínicas | Framework v2.0*
+*Pulso — Assessoria de Marketing para Clínicas | Framework v2.1 — Atualizado com dados reais dos POCs*

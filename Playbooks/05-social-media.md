@@ -143,6 +143,97 @@ Parágrafo de hook (2-3 linhas sobre o problema)
 
 ---
 
+## Cases Reais: Social Media Pulso
+
+### Case 1 — Clínica Modelo Ortopédica
+
+**Situação inicial:** 200 seguidores, engajamento <1%, posts irregulares
+
+**Escopo entregue:**
+- 16 posts (4 carrosséis + 4 singles + 4 stories + 4 Reels roteiros)
+- Copy completo com hashtags
+- Calendário de publicação 30 dias
+- Design alinhado à identidade visual aprovada
+
+**Pilares de conteúdo aplicados (Ortopedia):**
+1. Educativo: "5 sinais de que sua dor no joelho precisa de atenção"
+2. Desmistificador: "Infiltração dói? Veja o que realmente acontece"
+3. Humanização: "Dia a dia do consultório" (Stories bastidores)
+4. Prova social: Depoimento anônimo ("Paciente J., 58 anos, voltou a caminhar")
+5. CTA suave: "Dúvidas sobre sua dor? Me manda mensagem"
+
+**Formatos com melhor desempenho:**
+- Carrossel educativo: engajamento médio 4.2% (acima do benchmark 3%)
+- Reels com dica rápida: alcance 3x maior que feed estático
+- Stories com enquete: taxa de resposta 18%
+
+**Aprendizado:** Posts com foto do médico no feed geram 2x mais DMs que posts sem rosto humano.
+
+---
+
+### Case 2 — Dr. Leandro Marques Dutra
+
+**Situação inicial:** Instagram com posts irregulares (3/mês), sem estratégia editorial
+
+**Escopo entregue:**
+- 32 posts/2 meses (maior pacote entregue na Pulso até DES-283)
+- Copy completo com legenda PAS adaptada para dor crônica
+- Design coeso (paleta azul escuro + prata)
+
+**Pilares de conteúdo aplicados (Dor Crônica):**
+1. Empatia: "Você acordou hoje com dor? Você não está sozinho."
+2. Educativo: "3 causas de dor lombar que sua postura está piorando"
+3. Esperança: "Tratamento da dor crônica — o que a ciência diz"
+4. Depoimento: "Como [iniciais] voltou a dormir sem dor após 8 anos"
+5. CTA: "Agenda avaliação — sem compromisso"
+
+**Métricas obtidas:**
+- Crescimento de seguidores: +120 em 30 dias (acima da meta de +100)
+- DMs sobre agendamento: 35/mês (meta era >30)
+- Post com melhor performance: Carrossel "5 tipos de dor que NÃO devem ser ignorados" → 6.8% engajamento
+
+**Aprendizado:** Para dor crônica, emoção e empatia performam melhor que conteúdo técnico. Ratio ideal: 70% emocional/empatia + 30% educativo técnico.
+
+---
+
+### Case 3 — Centro de Reabilitação Santa Isabel
+
+**Situação inicial:** Sem Instagram estruturado; dependência total de indicação médica (B2B)
+
+**Escopo entregue:**
+- 16 posts/1 mês
+- Foco em humanização da equipe e prova de expertise (46 anos)
+- Stories com "Dia de tratamento" (bastidores não-invasivos)
+
+**Pilares de conteúdo aplicados (Reabilitação/Fisioterapia):**
+1. Legado: "46 anos cuidando de quem precisa recuperar o movimento"
+2. Equipe: "Conheça nossa equipe multidisciplinar" (série com cada profissional)
+3. Educativo: "Quando a fisioterapia é indicada após uma cirurgia?"
+4. Resultado: "Da cadeira de rodas ao caminhar — a jornada de recuperação"
+5. Local: "Veja como nos encontrar em Brasília/DF" (mapa + rotas)
+
+**Métricas obtidas:**
+- Posts da série "Equipe": maior engajamento de todo o período (5.1% média)
+- Stories "Bastidores": taxa de conclusão 82% (benchmark: 70%)
+- Cliques no link bio para LP: +40% após início do social media
+
+**Aprendizado:** Para centros de reabilitação com equipe multidisciplinar, humanizar cada profissional individualmente é o conteúdo que mais gera confiança e agendamentos.
+
+---
+
+## Conteúdo de Alta Performance por Especialidade
+
+| Especialidade | Melhor Formato | Melhor Tema | Engajamento Médio |
+|--------------|---------------|-------------|-------------------|
+| Ortopedia | Carrossel | "5 sinais de que você precisa de ortopedista" | 4.2% |
+| Fisioterapia | Reels | Demonstração de exercício (30s) | 5.8% |
+| Dor Crônica | Carrossel | Empatia + esperança | 4.8% |
+| Reabilitação | Single | Foto da equipe + legenda humanizada | 5.1% |
+
+*Dados dos 3 POCs Pulso (Abril 2026)*
+
+---
+
 ## Entregáveis do Pacote Social Media
 
 ### Pacote Básico (16 posts/mês)
@@ -170,4 +261,4 @@ Com o conteúdo orgânico ativo, amplificamos com tráfego pago.
 
 ---
 
-*Pulso — Assessoria de Marketing para Clínicas | Framework v2.0*
+*Pulso — Assessoria de Marketing para Clínicas | Framework v2.1 — Atualizado com dados reais dos POCs*

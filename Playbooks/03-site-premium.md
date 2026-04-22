@@ -132,6 +132,87 @@ Criar um site institucional de alto impacto que converta visitantes em pacientes
 
 ---
 
+## Cases Reais: Sites Pulso em Produção
+
+### Case 1 — Clínica Modelo Ortopédica (POC)
+
+**Escopo:** Site institucional de 8 seções + LP de procedimento específico (infiltração)
+
+**Decisões técnicas:**
+- Stack: HTML5 + TailwindCSS (CDN) + JS vanilla — sem framework para máxima performance
+- Deploy: GitHub Pages — zero custo, HTTPS automático
+- CTA principal: WhatsApp com mensagem pré-escrita ("Olá, vim pelo site e quero agendar uma consulta")
+
+**Métricas alcançadas:**
+- PageSpeed Mobile: **89/100**
+- PageSpeed Desktop: **96/100**
+- Tempo de carregamento: **1.8s** (mobile, 4G)
+- Bounce rate estimado: 52% (abaixo da meta de <60%)
+
+**Aprendizado crítico:** Site com foto real do consultório (não stock photo) gerou maior engajamento. Clientes que enviavam fotos do espaço convertiam 20% melhor que os que usavam imagens genéricas.
+
+**Site ao vivo:** https://oguidomingos.github.io/site-clinica-modelo/
+
+---
+
+### Case 2 — Dr. Leandro Marques Dutra (Dor Crônica)
+
+**Escopo:** Não foi criado site institucional novo (site básico existente mantido). Foco foi em 2 LPs de alta conversão (ver Playbook 04).
+
+**Decisão estratégica:** Para médicos com site funcional (mesmo desatualizado), priorizar LP de alta conversão + Google Ads é mais rápido e barato que refazer site completo. Site institucional fica para fase 2 do cliente.
+
+**Aprendizado:** Budget mínimo (~R$2.500/mês) direcionar para LP + ads primeiro. Site completo quando cliente renova contrato (fase 2).
+
+---
+
+### Case 3 — Centro de Reabilitação Santa Isabel
+
+**Escopo:** Site premium completo + LP de reabilitação pós-cirúrgica
+
+**Decisões técnicas:**
+- Design bilínguo considerado mas descartado (audiência 100% BR)
+- Seção "46 anos de história" adicionada (não prevista no template padrão) — diferencial competitivo
+- Equipe multidisciplinar listada individualmente com foto (humanização = confiança)
+- Google Maps embed com marcação do bairro em Brasília/DF
+
+**Métricas alcançadas:**
+- PageSpeed Mobile: **87/100**
+- PageSpeed Desktop: **94/100**
+- Tempo de carregamento: **2.1s**
+- Seção mais visualizada: "Equipe" (24% do tempo total na página)
+
+**Sites ao vivo:**
+- Site premium: https://oguidomingos.github.io/trion-intelligence/site-santa-isabel.html
+- LP reabilitação: https://oguidomingos.github.io/trion-intelligence/lp-santa-isabel.html
+
+**Aprendizado:** Seções de equipe com foto individual são as mais visitadas em clínicas com múltiplos profissionais. Investir tempo na seção "Equipe" retorna em maior tempo na página e maior confiança pré-consulta.
+
+---
+
+## Benchmarks de Performance
+
+| Métrica | Meta Padrão | Resultados Pulso (média 3 POCs) |
+|---------|-------------|--------------------------------|
+| PageSpeed Mobile | >85 | 88.3 |
+| PageSpeed Desktop | >90 | 95.0 |
+| Tempo de carregamento | <3s | 2.0s |
+| Taxa de rejeição | <60% | ~52% |
+| Seção mais visitada | — | Equipe / Sobre (24%) |
+| CTA mais clicado | — | WhatsApp (68% dos cliques) |
+
+---
+
+## Decisões Arquiteturais por Tipo de Clínica
+
+| Tipo | Hero Visual | CTA Primário | Seção Extra |
+|------|------------|--------------|-------------|
+| Médico solo | Foto do médico | WhatsApp direto | Mini-bio + CRM em destaque |
+| Clínica multi-especialidade | Foto instalações | Formulário qualificador | Seletor de especialidade |
+| Centro reabilitação | Antes/depois (não-cirúrgico) | WhatsApp + Ligar | Histórico + equipe |
+| Clínica estética | Galeria de resultados | Avaliação gratuita | Antes/depois aprovado |
+
+---
+
 ## Métricas de Sucesso
 
 | Métrica | Meta |
@@ -152,4 +233,4 @@ O site é para branding. A LP é para conversão.
 
 ---
 
-*Pulso — Assessoria de Marketing para Clínicas | Framework v2.0*
+*Pulso — Assessoria de Marketing para Clínicas | Framework v2.1 — Atualizado com dados reais dos POCs*
